@@ -8,3 +8,5 @@ Python Excerises.
 3. Implement all sortings, QuickSort, Selection Sort, Bubble sort, Insertion sort.
 4. Linked list add from array.
 5. Read a file and output data.
+6. Query DB and write to a file.
+7. Print data in a file using json format.
